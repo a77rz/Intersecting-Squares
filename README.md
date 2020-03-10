@@ -1,2 +1,2 @@
 # Intersecting-Squares
-Program determines if two squares intersect. 
+Program that determines if two squares intersect. 
